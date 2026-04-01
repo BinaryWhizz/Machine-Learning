@@ -1,0 +1,8 @@
+df = sns.load_dataset("titanic")
+
+This dataset is NOT stored locally
+It is built into the Seaborn library
+
+Downloaded from https://github.com/mwaskom/seaborn-data 
+
+ 
