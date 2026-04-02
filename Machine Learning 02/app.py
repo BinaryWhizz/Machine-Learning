@@ -78,3 +78,4 @@ if st.button("Predict"):
 # cd "Machine Learning 02"
 # pip install streamlit pandas joblib
 # streamlit run app.py
+
